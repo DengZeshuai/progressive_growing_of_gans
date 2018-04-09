@@ -18,7 +18,7 @@ class EasyDict(dict):
 #----------------------------------------------------------------------------
 # Paths.
 
-data_dir = 'datasets'
+data_dir = '/home/dengzeshuai/celeba_hq/'
 result_dir = 'results'
 
 #----------------------------------------------------------------------------
